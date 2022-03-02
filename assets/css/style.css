@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #ffffff;
 }
 
 header {
@@ -21,7 +21,7 @@ header h1 {
 }
 
 .seo {
-    color: #d9dcd6;
+    color: #ffffff;
 }
 
 header div {
@@ -193,8 +193,5 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-}
-
-.footer h2 {
     font-size: 20px;
 }
